@@ -1,0 +1,449 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The rending church-member regularly call'd back to Christ and to his church, or, A sober answer to certain questions of a company of discontented and covenant-deserting brethren in which are laid down clear grounds of solid conviction ... / by Marmaduke Matthews ...</title>
+            <author>Matthews, Marmaduke, 1606-1683?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50298</idno>
+            <idno type="STC">Wing M1325</idno>
+            <idno type="STC">ESTC R32419</idno>
+            <idno type="EEBO-CITATION">12677952</idno>
+            <idno type="OCLC">ocm 12677952</idno>
+            <idno type="VID">65602</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50298)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65602)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1531:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The rending church-member regularly call'd back to Christ and to his church, or, A sober answer to certain questions of a company of discontented and covenant-deserting brethren in which are laid down clear grounds of solid conviction ... / by Marmaduke Matthews ...</title>
+                  <author>Matthews, Marmaduke, 1606-1683?</author>
+               </titleStmt>
+               <extent>[10], 45, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.M. for Simon Miller ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata bound at end.</note>
+                  <note>Preface dated: From my study in Swansey the 12th instant of the 10th moneth, 1658.</note>
+                  <note>Imperfect: pages faded and stained with print showthrough and loss of print. Best copy available for photographing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65602:1" rendition="simple:additions"/>
+            <p>THE RENDING CHURCH-MEMBER Regularly call'd Back, TO CHRIST, and to his CHURCH.</p>
+            <p>OR, A Sober Anſwer to certain Queſtions of a Company of diſcontented and Covenant-deſerting Brethren.</p>
+            <p>IN Which are laid down clear Grounds of ſolid conviction, That whoſoever doth wil<g ref="char:EOLhyphen"/>fully neglect either to come to Chriſt and his true Combinational Church, or to continue with both, is not as yet in a capacity to ob<g ref="char:EOLhyphen"/>ſerve any one of ten remarkable Goſpel-Rules, or to partake of any one of ten precious Promiſes.</p>
+            <p>Publi<g ref="char:EOLhyphen"/>ſhed,
+<list>
+                  <item>I. For the awakning of ſleepy ſinners.</item>
+                  <item>II. For the witholding of tottering Saints.</item>
+                  <item>III. For the winning of wretched back<g ref="char:EOLhyphen"/>ſliders.</item>
+               </list>
+            </p>
+            <p>By <hi>Marmaduke Matthews,</hi> lately a Teaching-Elder of the Church of <hi>Maldon</hi> in <hi>New-England.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>JER. 8 5.</hi>
+               </bibl> Wherefore is this people ſliden back, with perpetual backſliding, <hi>&amp;c.</hi>
+            </q>
+            <q>
+               <bibl>
+                  <hi>JOH. 6.66, 67.</hi>
+               </bibl> From that time, many of his Diſciples went back, and walkt no more with him, and Jeſus ſaid, Will ye alſo go away, <hi>&amp;c.</hi>
+            </q>
+            <q>
+               <bibl>
+                  <hi>JER. 6.8.</hi>
+               </bibl> Be thou inſtructed, O Jeruſalem, leſt my ſoul de<g ref="char:EOLhyphen"/>part from thee, <hi>&amp;c.</hi>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>A. M.</hi> for <hi>Simon Miller</hi> at the Star i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ls</hi> Church-yard 1659.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:65602:2"/>
+            <pb facs="tcp:65602:2"/>
+            <head>THE PREFACE TO THE Religious READER.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Is an undeniable Truth, that experience (which is commonly called the <hi>Miſtreſſe of Fooles,</hi> as well as the <hi>Axiomes</hi> and <hi>Maximes</hi> of <hi>Philoſophers</hi>) doth make it manifest, that the corruption of the beſt, (whether of Perſons or things, Saints or Angels) is not the beſt, but the worſt corruption. And that
+<pb facs="tcp:65602:3"/>there may be the greateſt abuſe, of that which might be of the greateſt uſe. As the ſweeteſt Wines, through neglect of well-looking to, doth become the ſoureſt Vineger; ſo through the wiles of <hi>Satan,</hi> the wickedneſſe of ſinners, and the weakneſſe of the Saints, the very grace of God, is oft turn'd to wantonneſſe. And every one of the Goſpel Priviledges, and gracious Or<g ref="char:EOLhyphen"/>dinances of <hi>Congregational</hi> Churches, do produce divers uncomfortable and un<g ref="char:EOLhyphen"/>chriſtian contentions, among incon<g ref="char:EOLhyphen"/>ſiderate and ill-catechized Profeſſors of Godlineſs: As the cauſe and occaſion of the Compoſing of this preſent reconciling Treatiſe doth clearly de<g ref="char:EOLhyphen"/>clare.</p>
+            <p>'Tis remarkeable, that the very firſt riſe and reaſon of thoſe Church-divi<g ref="char:EOLhyphen"/>ſions, that threaten Church-deſolation, is without diſpute the raw and unripe en<g ref="char:EOLhyphen"/>trance, or rather the rude and raſh ruſhing of Church-obſervers into Church-eſtate, before they have been aſham'd
+<pb facs="tcp:65602:3"/>of, ſorrowfull for, and ſeparated from, their Perſonal and Parental <hi>abominations;</hi> little conſidering or laying to heart, that ſuch a ſenſible condition is loudly call'd for at their hands; and that from him; who is the Churches Head, as a neceſſary <hi>antecedent</hi>-qualificati<g ref="char:EOLhyphen"/>on to a compleat Church-Communion: as 'tis made known, <hi>Ezek. 43.10, 11. Shew this Houſe to the Houſe of Iſ<g ref="char:EOLhyphen"/>rael, that they may be aſhamed of their wickedneſſe:—And if they be aſhamed,—ſhew them the form of the Houſe.</hi> And Chap. <hi>44.7, 9. Ye have brought into my Sanctuary, ſtrangers uncircumciſed in heart, and uncircumciſed in fleſh, to pollute my Houſe.</hi> And verſe the 19<hi rend="sup">th</hi>, <hi>Thus ſaid the Lord, uncircumciſed in heart, or uncircumciſed in fleſh, ſhall not enter into my Sanctuary.</hi>
+            </p>
+            <p>Next to this unwiſe and unwarrant<g ref="char:EOLhyphen"/>able entrance unto Church fellowſhip, 'tis not difficult for to diſcern, that inconſiderate and uncircumſpect <hi>com<g ref="char:EOLhyphen"/>bining,</hi>
+               <pb facs="tcp:65602:4"/>and covenanting with a Church of Saints, to watch one over another, and to walk one with another by Go<g ref="char:EOLhyphen"/>ſpel-Rule, doth become in the concluſi<g ref="char:EOLhyphen"/>on a cruel ſnare to the ſouls and con<g ref="char:EOLhyphen"/>ſciences of ſuch <hi>Combiners;</hi> who (by reaſon of the remote diſtance of their ſeveral dwellings, being too many members very many miles from their publique Meeting houſe) do impoſe upon themſelves an utter <hi>impoſſibility</hi> of keeping that Covenant which they had bound their ſouls for to keep, in coming ordinarily to Publique worſhip on Lords Daies, in one place, according to the Pattern; in <hi>1 Cor. 14.23. When the whole Church are come together in one place,</hi> &amp;c.</p>
+            <p>Certainly they cannot come together (without notorious inconveniency) eve<g ref="char:EOLhyphen"/>ry Sabboth day in one place, at morning Sacrifice, and evening Incenſe; I mean, at forenoon and afternoon Inſtituted wor<g ref="char:EOLhyphen"/>ſhip, who are ſo farre from co-habiting in one <hi>Corporation,</hi> that they have not
+<pb facs="tcp:65602:4"/>their abode in one <hi>County.</hi> And by neceſſary conſequence, they muſt fall headlongly on one of the fierce hornes of this fearfull <hi>Dilemma;</hi> Either to be wanting in publique, or to be wronging in private. If they carefully obſerve their watch, and keep their Covenant with their fellow-members abroad, then they muſt careleſly and cruelly neglect their watch, and break their Covenant with their own Families at home.</p>
+            <p>When Profeſſors are found thus to fail both in their <hi>Ingreſſe</hi> to, and <hi>Progreſſe<g ref="char:punc">▪</g>
+               </hi> in Church-fellowſhip, 'tis no wonder at all, if their <hi>Egreſſe</hi> therefrom be anſ<g ref="char:EOLhyphen"/>werable; namely, injurious and ſcanda<g ref="char:EOLhyphen"/>lous to Brethren within, and to Neigh<g ref="char:EOLhyphen"/>bours without, by their hatefull and hor<g ref="char:EOLhyphen"/>rible rejection of the heavenly <hi>Oracles,</hi> from being the Rule, Square, and Touch<g ref="char:EOLhyphen"/>ſtone of their language, lives, and actions. As ſtrong fences are made to reſtrain the extravagant wanderings of bruitiſh <hi>An<g ref="char:EOLhyphen"/>nimals;</hi> ſo the Sacred Scriptures are appointed to curb and bridle the wild
+<pb facs="tcp:65602:5"/>and wanton wits and ſpirits of the unruly reaſonable creatures. When the <hi>Chil<g ref="char:EOLhyphen"/>dren of diſobedience</hi> make bold to tread theſe fences down, who knows where or when they will ſtay or ſtand? When vi<g ref="char:EOLhyphen"/>olent <hi>Torrents</hi> bear away and break down the withſtanding banks and <hi>dammes,</hi> who can tell at what time or place they will make a <hi>ſtoppe?</hi> When ſpiritual <hi>Paſſengers</hi> venture to ſpread the ſailes of their affections to the wind of their own wills, canne they expect to <hi>An<g ref="char:EOLhyphen"/>chor</hi> any where this ſide the brink of the bottomeleſſe pit? For the prevent<g ref="char:EOLhyphen"/>ing of the <hi>Shipwrack,</hi> of whoſe Faith and good Conſcience, and for the further provoking of praying Perſons, to Peti<g ref="char:EOLhyphen"/>tion that God would perſwade <hi>Japhet</hi> to dwell in the Tents of <hi>Shem;</hi> and cauſe the two ſticks of <hi>Joſeph</hi> and <hi>Judah,</hi> to become one in the hand of <hi>David</hi> our King; that they (ſpeaking a pure language, and leading a pious life) may be in a capacity to ſerve the Lord with own ſhoulder, and own con<g ref="char:EOLhyphen"/>ſent;
+<pb facs="tcp:65602:5"/>is his aimes in theſe endea<g ref="char:EOLhyphen"/>voures, who would be among thoſe few that follow the Lord fully; and is</p>
+            <closer>
+               <signed>unfeignedly thy fellow-ſervant <hi>MARMADUKE MATTHEWS.</hi>
+               </signed>
+               <dateline>
+                  <hi>From my Study in</hi> Swanſey <date>
+                     <hi>the 12<hi rend="sup">th</hi> inſtant of the 10<hi rend="sup">th</hi> Moneth, 1658.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:65602:6"/>
+            <pb n="1" facs="tcp:65602:6"/>
+            <head>Dearely Beloved Diſſenting Brethren, Grace, Truth, and Peace, be mani<g ref="char:EOLhyphen"/>feſted more and more to you, in you, and by you, and may God the Giver thereof be pleaſed to ſay, <hi>Amen.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Is ſo, that perceiving you (at leaſt ſome of you) to be in ſome good meaſure in<g ref="char:EOLhyphen"/>form'd by him who teach<g ref="char:EOLhyphen"/>eth his obedient Hearers to profit; how to argue a point in Controverſie, according to Gods Sacred <hi>Oracles;</hi> I oft did, and do (through grace) find my heart ſtirr'd up to be prai<g ref="char:EOLhyphen"/>ſing the Lord, and to be petitioning for you; knowing that to diſcourſe Argume<g ref="char:EOLhyphen"/>tatively, is ſuch a commendable courſe, as I both approve of very much, and practice
+<pb n="2" facs="tcp:65602:7"/>not a little; becauſe I obſerve it to be a thing of good report amongſt the emi<g ref="char:EOLhyphen"/>nenteſt of the Saints, long before there were any Records of humane Learning in the world; as it plainly appeares by what is openly profeſt of the <hi>Patriarch Job,</hi> as well in his calling upon God, as in his con<g ref="char:EOLhyphen"/>tending with men, in <hi>Job.</hi> 23.4. <hi>I would plead my cauſe before him, and fill my mouth with Arguments.</hi> So <hi>Job</hi> the 13. &amp; 16. <hi>Now hear my disputation, and give ear to the Arguments of my lips.</hi> Whoſe guiſe (by this it ſeems) was to fill his mouth with Arguments, to own the forcibleneſſe of right reaſoning; and withall, to abhorre ſuch arguing, as being well weighed, would be found wanting: as you cannot chuſe but know, if you can tell what is extant in his Book on that account.</p>
+            <p>Beſides that, (which is more then that) Religious creatures are commiſſioned to reaſon in their Requeſts with their Creator; as he is pleaſed to inform us by the mouth of the Prophet <hi>Iſaiah,</hi> Chap. 1.18. <hi>Come let us reaſon together, ſaith the Lord.</hi> So Chap. 43.26. <hi>Plead with me,</hi> &amp;c. And to render a reaſon of their hope of happineſſe, and of Heaven, to ſuch of their neighbours as are diſſatisfied with their behaviour, by
+<pb n="3" facs="tcp:65602:7"/>the Miniſtry of the Apoſtle <hi>Peter,</hi> 1 <hi>Pet.</hi> Chap. 3.13. <hi>Be ready to give an Anſwer alwaies to every man, that asketh you a reaſon of the hope that is in you with meekneſſe and re<g ref="char:EOLhyphen"/>verence.</hi>
+            </p>
+            <p>In ſpight then of all contradiction, it muſt be confeſt, that carnal and careleſſe <hi>Gallio</hi> will riſe up in judgment, and condemn all ſuch Goſpellers, as are regardleſſe of reaſon or rule; as you have or may reade, <hi>Acts</hi> 18.14, 17. <hi>As Paul was about to open his mouth, Gallio ſaid to the Jews, if it were a matter of wrong, or an evil deed; O ye Jews, I would according to reaſon main<g ref="char:EOLhyphen"/>tain you</hi>—<hi>But Gallio cared nothing for theſe things,</hi> &amp;c.</p>
+            <p>Although the Quſtions which came from you, were not particularly directed to me, any more then to another man; yet, being perſwaded, that 'tis ſome part of that duty I owe to my faithfull Creator, and fellow-creatures, to endeavour the reducing of ſuch ſouls, as I diſcern to be gone after <hi>Satan,</hi> through his ſubtilty, their ſimplicity, and their ignorance of the Scriptures; which (as we are inform'd by the Lords own mouth) is the main in-let to monſtrous er<g ref="char:EOLhyphen"/>rours: as 'tis revealed to us, <hi>Mat.</hi> 22.29. <hi>Jeſus anſwered, and ſaid, Ye do erre not
+<pb n="4" facs="tcp:65602:8"/>knowing the Scriptures; neither the power of God.</hi> I conceived it not inconvenient (but Chriſtian) to return to them (and ſo to you) this <hi>affirmative</hi> and infallible Anſwer; which is, That all perſons, that would be eſteemed Members of any reformed Church, are to be orderly Saints: witneſſe what is written in 1 <hi>Cor.</hi> 14.33. <hi>God is not the Au<g ref="char:EOLhyphen"/>thor of confuſion, but of Peace, as in all the Churches of the Saints.</hi> And the 40 Verſe, <hi>Let all things be done decently and in or<g ref="char:EOLhyphen"/>der,</hi> &amp;c.</p>
+            <p>The whole ſumme and ſubſtance of which Queſtions, (and what may be Chriſtianly deduced therefrom, concerning your de<g ref="char:EOLhyphen"/>ſerting the Society of your fellow-ſervants) may be gathered and wound up into this one Argument.</p>
+            <p>THAT Church and company of Go<g ref="char:EOLhyphen"/>ſpel Profeſſors, which doth not conſiſt of circumſpect walkers, and orderly Saints, is to be deſerted and ſeperated from, as unclean.</p>
+            <p>BUT the Church and Company of Go<g ref="char:EOLhyphen"/>ſpel Profeſſors, which is at <hi>A,</hi> doth not conſiſt of circumſpect walkers, and regular Saints.</p>
+            <p>THEREFORE the Church or Company of Goſpel Profeſſors which is at <hi>A,</hi> is to be deſerted and ſeparated from, as unclean.</p>
+            <pb n="5" facs="tcp:65602:8"/>
+            <p>In which Argument, the Propoſition or firſt part is ſuch a piece of truth as is im<g ref="char:EOLhyphen"/>pregnable, and undeniable, becauſe it is a<g ref="char:EOLhyphen"/>greeable to Scripture-rules; according to which every Goſpel-ſpeaker is enjoyned to ſpeak, and every peaceable walker is war<g ref="char:EOLhyphen"/>ranted to walk: as 'tis moſt evident in <hi>Exod.</hi> 23 13. <hi>And in all things that I have ſaid unto you, be circumſpect, and make no men<g ref="char:EOLhyphen"/>tion of the names of other gods, neither let it be heard out of thy mouth.</hi> So <hi>Gal.</hi> 6.16. <hi>And as many as walk according to this rule, peace be on them, and mercy: and up<g ref="char:EOLhyphen"/>on the Iſrael of God.</hi> And 1 <hi>Pet.</hi> 4.11. <hi>If any man speak, let him ſpeak according to the Oracles of God.</hi>
+            </p>
+            <p>That ſuch Church-Members as are diſ<g ref="char:EOLhyphen"/>orderly walkers or irregular livers, are to be deſerted and ſeparated from, is ſuch an expreſſion as is above the reach of any ra<g ref="char:EOLhyphen"/>tional contradiction; yea, 'tis ſuch a preg<g ref="char:EOLhyphen"/>nant poſition, as I cannot chuſe but readi<g ref="char:EOLhyphen"/>ly ſubſcribe unto, not only by a down<g ref="char:EOLhyphen"/>right <hi>affirmation,</hi> That it is ſo; but alſo by a five-fold <hi>confirmation,</hi> That it ſhould not be otherwiſe. Whereof</p>
+            <list>
+               <item>The firſt is in <hi>Acts</hi> 19.9. <hi>When divers were hardned and believed not, but ſpake evil of that Way before the multitude, he
+<pb n="6" facs="tcp:65602:9"/>departed from them, and ſeparated the Di<g ref="char:EOLhyphen"/>ſciples.</hi>
+               </item>
+               <item>The ſecond, is in 1 <hi>Cor.</hi> 5.9, 11, 13. <hi>I wrote to you in an Epiſtle not to company with fornicators, or with the covetous, or a drunkard, with ſuch a one not to eat.</hi> — <hi>Therefore put away from among your ſelves that wicked perſon.</hi>
+               </item>
+               <item>The third, is in 2 <hi>Cor.</hi> 6 17. <hi>Wherefore come out from among them, and be ye ſeparate, ſaith the Lord and touch not the unclean thing, and I will receive you.</hi>
+               </item>
+               <item>The fourth, is in 2 <hi>Theſ.</hi> 3.6, 14. <hi>Now we commaad you Brethren, in the Name of our Lord Jeſus Chriſt, that ye withdraw from every Brother that walkes diſor<g ref="char:EOLhyphen"/>derly.</hi>
+               </item>
+               <item>The fifth and laſt, is in 2 <hi>Timoth.</hi> Chap 3.1, 2, 3, 4, 5 verſes. <hi>And this know alſo, that perilous times ſhall come in the laſt daies; for men ſhall be lovers of their own ſelves, cove<g ref="char:EOLhyphen"/>tous, and lovers of pleaſures more then lo<g ref="char:EOLhyphen"/>vers of God; having a form of godlineſſe, but denying the power thereof: from ſuch turn away.</hi>
+               </item>
+            </list>
+            <p>Only let it be diligently obſerved, that he that would be found in the number of Chriſts faithfull Servants, is to have an eye both to the <hi>matter</hi> which he is to act in, and
+<pb n="7" facs="tcp:65602:9"/>alſo to the <hi>manner</hi> of his actings. In reſpect of the firſt, the Maſter requires his Servant to do THIS, namely, <hi>what</hi> he doth command; and in reſpect of the ſecond, to do it THUS, namely, <hi>as 'tis</hi> com<g ref="char:EOLhyphen"/>manded. THE ONE is no more then the body or <hi>outſide</hi> of acceptable ſervice, but the OTHER is the ſoul and <hi>inſide</hi> of the ſame.</p>
+            <p>That nothing be done in Chriſts Name, ſave only ſuch a particular, for which there is an expreſſe Command, is the <hi>firſt,</hi> and Eſſential part of a Church-Members im<g ref="char:EOLhyphen"/>ployment: as 'tis apparent to any that is verſt in Scripture, <hi>Zach.</hi> 7.7. <hi>Should ye not hear the words of the Lord, which the Lord had cried unto you by the mouthes of the for<g ref="char:EOLhyphen"/>mer Prophets,</hi> &amp;c. So <hi>Luke</hi> 5 5 <hi>At thy Command, Lord I'le let down the net,</hi> &amp;c.</p>
+            <p>And that it may be performed in no o<g ref="char:EOLhyphen"/>ther way, then as 'tis commanded, is the o<g ref="char:EOLhyphen"/>ther and <hi>beſt</hi> half thereof: as is teſtified in <hi>Rom.</hi> 14.23. <hi>Whatſoever is not of Faith, is ſinne.</hi>
+            </p>
+            <p>Unleſſe there be a joynt concurrence of theſe ſeveral parts in a Profeſſors performan<g ref="char:EOLhyphen"/>ces, the work is ſo farre from being a good work, as that it doth not (at all) excell
+<pb n="8" facs="tcp:65602:10"/>that puniſhing of vice which was performed by <hi>Jehu</hi> (mentioned 2 <hi>King</hi> 10 16. <hi>And he ſaid, Come and ſee my zeal for the Lord.</hi> But in <hi>Hoſ.</hi> 1.4. 'tis counted cruelty, <hi>I will a<g ref="char:EOLhyphen"/>venge the blood of Jezrel upon the Houſe of Je<g ref="char:EOLhyphen"/>hu.</hi>) or that provoking to vertue, which was expreſſed by <hi>Judas,</hi> and ſuch as he, in <hi>Mat.</hi> 7.22 <hi>Many will ſay, Lord, Lord, have we not in thy Name caſt out Devils, and by thy Name done many great works,</hi> &amp;c.</p>
+            <p>In ſhort, 'tis ſuch an abhominable Sa<g ref="char:EOLhyphen"/>crifice, as is the ſhedding of mans blood, if the bleſſed God be worthy to be believed in what he ſaith in <hi>Iſaiah</hi> 1.15. <hi>When ye make many Prayers, I will not hear,</hi>—<hi>your hands are full of blood.</hi> And Chap. 66.3. <hi>He that kills an Ox, is, as if he he ſlew a man, he that ſacrifizeth a Lamb, as if he cut off a dogs neck; he that offers an ob<g ref="char:EOLhyphen"/>lation, as if he offered ſwines blood; he that burneth Incenſe, as if he bleſſeth an Idoll. Yea, they have choſe their own waies, and their ſoul delights in their abominations.</hi>
+            </p>
+            <p>As 'tis a truth that none dare deny, that ſeparation from prophane ſinners (though profeſſing Saints) is ſuch a ſervice for the MATTER of it, as Chriſt doth command; as 'tis to be ſeen by what is already ſhewn.</p>
+            <pb n="9" facs="tcp:65602:10"/>
+            <p>So 'tis no falſhood to affirm, That ſuch a ſeparation for the MANNER thereof, is not a Chriſtian or commendable ſeparation, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f it be not carried on according to Scrip<g ref="char:EOLhyphen"/>ture Precepts or Patterns: as 'tis moſt clear by what is expreſsly required by the Al<g ref="char:EOLhyphen"/>mighty himſelf in ſeveral places: as <hi>Act</hi> 7.44. &amp; <hi>Heb.</hi> 8.5. <hi>See that thou do all things according to the pattern ſhewed thee in the Mount.</hi> And 1 <hi>Cor.</hi> 14.40. <hi>Let all things be done decently and in order.</hi>
+            </p>
+            <p>And waſt never obſerved by any of you, that though <hi>
+                  <g ref="char:V">Ʋ</g>zza,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>zziah,</hi> did ob<g ref="char:EOLhyphen"/>ſerve a right ORDINANCE, in the car<g ref="char:EOLhyphen"/>riage of the Ark, and offering of Incenſe; yet, the one was deſtroyed, and the other diſgrac't, and degraded, for the meer miſ<g ref="char:EOLhyphen"/>carriage that was manifeſted thereabouts, in not obſerving a right ORDER; as all may ſee in that terrible-treble Looking glaſs that is left for Church-Miniſters, for Court-Magiſtrates, and for Church Members to look upon, in 1 <hi>Chron.</hi> 15.13. <hi>The Lord our God made a breach upon us, becauſe we ſought him not after the due order.</hi> And 2. <hi>Chron.</hi> 26.16. <hi>But when <g ref="char:V">Ʋ</g>zziah was ſtrong, his heart was lifted up to his deſtruction; for he tranſgreſt againſt the Lord his God, and went into the Temple of the Lord, to burn
+<pb n="10" facs="tcp:65602:11"/>Incenſe on the Alter of Incenſe.</hi> So Chap 30.18, 20. <hi>For a multitude of the people even many of Ephraim and Manaſſeth, Izz<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>char and Zebulon, had not cleanſed them<g ref="char:EOLhyphen"/>ſelves, yet did they eat the Paſſover otherwiſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> then 'twas written. But Hezekiah praye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for them, ſaying, The good Lord pardon every one.</hi>—<hi>And the Lord hearkened to Hezekiah and healed the people.</hi>
+            </p>
+            <p>Or can it be but confeſt and acknowledg<g ref="char:EOLhyphen"/>ed by all of you, that the only Orthodox Order, in making of ſeperation from Church-Communion, is, That it may not be, till after the firſt and ſecond Admoni<g ref="char:EOLhyphen"/>tion be adminiſtred, and that by ſuch <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> power as is ſuperior to to the party offend<g ref="char:EOLhyphen"/>ing; except you diſapprove (which God forbid) of what Chriſt doth preſcribe<g ref="char:punc">▪</g> 
+               <hi>Mat.</hi> 18.15, 16, 17. <hi>If thy Brothers ſha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> treſpaſſe againſt thee, go and tell him his faul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> between thee and him alone, and if he he<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> thee, thou hast gain'd him.</hi> So <hi>Joh.</hi> 8.17. <hi>'Tis alſo written in your Law, that the Teſti<g ref="char:EOLhyphen"/>mony of two witneſſes is true.</hi> So 2 <hi>Cor.</hi> 13.1. <hi>In the mouth of two or three wit<g ref="char:EOLhyphen"/>neſſes ſhall every word be eſtabl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhed.</hi> And <hi>Tit.</hi> 3.10. <hi>A man that is an Heretick, after the firſt and ſecond Admonition, re<g ref="char:EOLhyphen"/>ject.</hi>
+            </p>
+            <pb n="11" facs="tcp:65602:11"/>
+            <p>And for the Aſſumption (which is the ſecond part of the Argument, which by your Queſtions you ſeem to urge) 'tis utterly deſtitute of any proof; whether you mean the whole body of the <hi>Congrega<g ref="char:EOLhyphen"/>tional<g ref="char:punc">▪</g>
+               </hi> Church, whereof ye are Members, and which was for a long time owned (as by others, ſo eſpecially) by your ſelves, to be one of thoſe reformed Churches of <hi>Chriſtendome,</hi> which in Scripture-language, are called Queens, as in <hi>Cant.</hi> 6.8. <hi>There are threeſcore Queens, and fourſcore Concu<g ref="char:EOLhyphen"/>bins, and Virgins without number.</hi>
+            </p>
+            <p>And therefore know it, and that not ſo much from the Pen of a <hi>dying</hi> man, as from the Spirit of the <hi>living</hi> God, That no Queen (or ſuch a Church) is by deffama<g ref="char:EOLhyphen"/>tion, or any other way, to be defiled by any perſon, upon pain of dreadfull deſtru<g ref="char:EOLhyphen"/>ction to the defiler: witneſſe what is on Record on that account, 1 <hi>Cor.</hi> 3.17. <hi>If any man defile the Temple of God, him ſhall God deſtroy; for the Temple of God is holy, which Temple ye are.</hi> That is to ſay, the Church of <hi>Corinth.</hi>
+            </p>
+            <p>Or whether you would be underſtood by your writing, to point at ſome of the par<g ref="char:EOLhyphen"/>ticular Members of that Political body; 'tis very apparent (I think) that orderly
+<pb n="12" facs="tcp:65602:12"/>proof of any diſorderly practice among them was never yet produced.</p>
+            <p>Is it not rational and regular, that they ſhould have a fair and open tryal, together with a clear conviction, that the accuſed ones are <hi>barren branches, Joh.</hi> 15. and 26<g ref="char:punc">▪</g> 
+               <hi>Twice dead trees,</hi> Jud. 12. <hi>Rotten Members,</hi> Gal. 5.12. <hi>Choaking thornes,</hi> Mat. 13.22. Or <hi>wallowing ſwine,</hi> 2 Pet. 2.22. before they can with any good grounds, good conſci<g ref="char:EOLhyphen"/>ence, or according to Chriſt, be disfran<g ref="char:EOLhyphen"/>chized of their Citizens freedome, deprived of their Church-Priviledges; much leſſe diſ<g ref="char:EOLhyphen"/>membred from the body, ſupplanted from the Vineyard, rooted from the Field, dri<g ref="char:EOLhyphen"/>ved from the Fold, and Flock to which they do relate, and belong: leaſt of all is the whole Body, Field, or Fold, to be deſer<g ref="char:EOLhyphen"/>ted, but bo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h the one and the other is to be participated with, in what is of good report; and faithfully and frequently provok't to what is good, by all ſuch of their fellow, members, as would not be eſteemed wilfull villifiers of Chriſts blood, diſobeyers of his directions, deſpiſers and deſpiters of his holy Spirit. From all which, the good Lord deliver us, leaſt otherwiſe we might periſh with the Apoſtates, which you read are indicted, arrained, and threatned to
+<pb n="13" facs="tcp:65602:12"/>be executed, in <hi>Heb.</hi> Chap. 10 25, 26, 27, 28, 29 verſes. <hi>Not forſaking the aſſembling our ſelves together, as the manner of ſome is, but exhorting one another, and ſo much the more as ye ſee the day approaching; for if we ſinne wilfully after that we have receiv'd the knowledge of the truth, there remaines no more Sacrifice, but a certain direfull looking for of vengeance, and fiery indig<g ref="char:EOLhyphen"/>nation which devoures the Adverſaries.</hi>— <hi>Of how much more ſore puniſhment ſuppoſe ye ſhalle he be thought worthy, who hath trod<g ref="char:EOLhyphen"/>den under foot the Son of God, and hath count<g ref="char:EOLhyphen"/>ed the blood of the Covenant wherewith he was ſanctified an unholy thing, and hath done de<g ref="char:EOLhyphen"/>ſpight to the Spirit of grace.</hi>
+            </p>
+            <p>Therefore the <hi>Concluſion</hi> (which is the laſt part of the Argument, which was urg'd concerning Church-members qualification, and Communion) concludes nothing more then this one thing, <hi>viz</hi> That the charity of ſome old, and ſundry young Profeſſors of Chriſtianity is ſo little, that 'tis ſcarce viſible to ordinary eyes; and that Chriſti<g ref="char:EOLhyphen"/>anity it ſelf, is leſſe legible in their lives, who walk ſo quite contrary to Chriſts Church waies: as 'tis mavelous plain by this one e<g ref="char:EOLhyphen"/>minent particular, which is ſuch a piece of inaequity (that I ſay not iniquity) that if
+<pb n="14" facs="tcp:65602:13"/>my heart were not very bad, it would wiſh that it might even weep teares of blood to think thereupon, knowing by experience, that ſuch of your Church-neighbours, as have but ſo much humanity or civil honeſty as was in the former <hi>Phariſees,</hi> the contem<g ref="char:EOLhyphen"/>ners of Chriſt, who did not, do not, dare not, (for their very necks) take from the worſt of their foes, as much as will amount to the value of thirteenpence halfpenny, contrary to the Lawes of the Land.</p>
+            <p>Yet, not a few (as I have been faithfully informed) of the Church-members that have left the Church with you, who had publique<g ref="char:EOLhyphen"/>ly bound their ſouls (if not explicitely yet) implicitely by a Curſe, and by an Oath, to be Covenant-keepers with Chriſt and with his Church, in the preſence of God, Angels, and men (as you cannot chuſe but acknow<g ref="char:EOLhyphen"/>ledg and confeſſe, in caſe you have any more then ordinary acquaintance with the Name and Nature of a Church-Covenant: as 'tis held out for our Information and Imitation, in <hi>Deut.</hi> 29.12. <hi>That thou ſhouldeſt enter in<g ref="char:EOLhyphen"/>ter into Covenant with the Lord thy God, and into his Oath, which the Lord thy God maketh with thee.</hi> So <hi>Ezek</hi> 20.37. <hi>I will bring you into the bond of the Covenant.</hi> Alſo <hi>Jer.</hi> 50.5. <hi>They ſhall ask the way in Zion, with their faces
+<pb n="15" facs="tcp:65602:13"/>thither-ward, ſaying, Come let us joyn our ſelves to the Lord, in a perpetual Covenant that ſhall not be forgotten.</hi> And <hi>Neh.</hi> 10.29. <hi>They clave to enter into a Curſe, and into an Oath to walk in Gods Law,</hi> &amp;c.) Who not<g ref="char:EOLhyphen"/>withſtanding all their ſuch Bonds and Obli<g ref="char:EOLhyphen"/>gations, make no bones of bereaving, I know not how may of their beſt friends and Bre<g ref="char:EOLhyphen"/>thren in fellowſhip, of their good Names, which are rated above riches or Inheritance, and that in the judgment of the Eldeſt Sonne of wiſdom. <hi>Prov.</hi> 22.1. <hi>A good Name is rather to be choſen then great riches.</hi>
+            </p>
+            <p>When I am given to underſtand, that you (in conformity to the counſell of the won<g ref="char:EOLhyphen"/>derfull Counſellor, <hi>Joh.</hi> 8.46. <hi>Which of you convinceth me of ſinne.</hi> So <hi>Mat.</hi> 7 5. <hi>Thou Hippocrite, firſt caſt out the beame from thine own eye<g ref="char:punc">▪</g> and then ſhalt thou clear<g ref="char:EOLhyphen"/>ly ſee the mote in thy Brothers.</hi> And <hi>Gal</hi> 6.1. <hi>If a man be overtaken, reſtore him in the ſpirit of meekneſſe.</hi>)</p>
+            <p>I ſay, when I am given to underſtand, that you in conformity to theſe Scripture Rules, do ſtudy and ſtrive to reſtore ſuch of your Covenant-Brethren, as you con<g ref="char:EOLhyphen"/>ceive to be Covenant-breakers; by con<g ref="char:EOLhyphen"/>vincing them ſolidly, that this or that PRACTICE, is a regulary condemn'd
+<pb n="16" facs="tcp:65602:14"/>ſin, and that this or that PERSON among them, is a regulary accus'd ſinner; then (Chriſt aſiſting me) I ſhall deſire and indeavour openly to appear to be one that is engaged to approve of, and to plead for ſuch a Chriſtian proceeding.</p>
+            <p>In the mean time, I beſeech you to bear with me for my taking ſo much boldneſſe, as (out of my inward loyalty to my glo<g ref="char:EOLhyphen"/>rious Saviour, and out of my unfeigned love to your precious ſouls) to bear wit<g ref="char:EOLhyphen"/>neſſe that ye are (as yet) ſo farre from being very regular walkers, as that as long as ye continue either againſt Church-Covenant, or out of Church-Communi<g ref="char:EOLhyphen"/>on, ſo long you cannot be groundedly conceived to be in a capacity to keep any one of ten remarkeable Rules of Chriſt, which we are commanded to keep as heed<g ref="char:EOLhyphen"/>fully as we ſhould the Apple of our eye, <hi>Prov</hi> 7.2. And for the preſumptuous break<g ref="char:EOLhyphen"/>ing of the leaſt of them, we ſhould ex<g ref="char:EOLhyphen"/>poſe our ſelves, to be not only very con<g ref="char:EOLhyphen"/>temptible perſons, but alſo, which is farre worſe, to be found notorious guilty ones, and lawleſſe livers: as 'tis to be ſeen by what is teſtified in <hi>Mat</hi> 5.19. <hi>Whoſoever therefore ſhall break one of theſe leaſt Comman<g ref="char:EOLhyphen"/>dements, and ſhall teach men ſo, he ſhall be call'd
+<pb n="17" facs="tcp:65602:14"/>the leaſt in the Kingdom of Heaven.</hi> So <hi>James</hi> 2.10. <hi>He that keepes the whole Law, and of<g ref="char:EOLhyphen"/>fends in one point, he is guilty of all.</hi>
+            </p>
+            <p>And leaſt I ſhould ſeem to ſlander you, (or any other) by affirming, That ſuch Profeſſors of Chriſtianity, as knowingly re<g ref="char:EOLhyphen"/>fuſe, either to come into Church-Covenant, or to continue in Church-Communion, are (as yet) not in a capacity to obey any one of ten very remarkeable Commands, which all that would be bleſſed, and regular walkers are found to walk by; conſider ſeriouſly how I <hi>confirm</hi> that <hi>Affirmation.</hi> Oh, that you were but half ſo well pleaſed to peruſe and ponder upon them, as I am willing to take the paines to point them out, and to penne them for you!</p>
+            <p n="1">1. The firſt, is about the avouching of the God of Chriſt, and of the Church, to be your God in Covenant, by your preſence and profeſſion in the publique Congregati<g ref="char:EOLhyphen"/>on: according to the commendable pattern, in <hi>Deut</hi> 26 17, &amp;c. <hi>Thou haſt avouched the Lord this day to be thy God, and to walk in his waies; and he hath avouched thee,</hi> &amp;c. So <hi>Iſaiah</hi> 44.5. <hi>One ſhall ſay, I am the Lords, and another ſhall call himſelf by the Name of Jacob, and another ſhall ſubſcribe with his own had to the Lord, and ſirname himſelf by the
+<pb n="18" facs="tcp:65602:15"/>name of Iſrael.</hi> Alſo <hi>Jerem.</hi> 50.5. <hi>Ezek.</hi> 20. &amp; the 37. <hi>Acts</hi> 2.46, 47. <hi>Rom.</hi> 12.1. &amp; 2 <hi>Cor.</hi> 8 5. &amp;c.</p>
+            <p>Is't poſſible for any perſon to diſcharge that publique duty, that doth ordinarily de<g ref="char:EOLhyphen"/>cline the publique Meeting-place?</p>
+            <p n="2">2. The ſecond, is that which binds Belie<g ref="char:EOLhyphen"/>vers to be admitting ſuch as be in the Faith, into Church-fellowſhip; in conformity to Chriſts command, in <hi>Rom.</hi> 14.1, 3. <hi>Him that is weak in the Faith receive, but not to doubt<g ref="char:EOLhyphen"/>full diſputation, for God hath received him.</hi>
+            </p>
+            <p>Where Chriſt doth enjoyn this ſervice, what Chriſtian dares omit the ſame, either to neglect to offer his own ſelf to Chriſt and to the Church, or to be abſent when he ſhould be preſent at the receiving of others that Chriſt hath received? Only ſuch a one as domineering <hi>Diotrephes</hi> dares to do ſo. <hi>Joh</hi> 9 10. <hi>I wro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e to the Church, but Diotre<g ref="char:EOLhyphen"/>phes, who loves to have the preheminence a<g ref="char:EOLhyphen"/>mong them, receives us not,</hi> &amp;c.</p>
+            <p n="3">3. The third is concerning the Electing of Church Officers, by lifting up of the hand, as oft as occaſion requires, <hi>viz.</hi> of TEACHERS, PASTORS, RULERS, and DEACONS; in immitation of thoſe cir<g ref="char:EOLhyphen"/>cumſpeſt Walkers, recorded <hi>Acts</hi> 1.23. <hi>And they appointed two.</hi> &amp;c. So <hi>Act.</hi> 6.3. <hi>Where<g ref="char:EOLhyphen"/>fore
+<pb n="19" facs="tcp:65602:15"/>fore Brethren, look ye out among you,</hi> &amp;c. And verſe 5. <hi>The ſaying pleaſed the multitude, and they choſe Stephen.</hi> And Chap. 14.23. (Ac<g ref="char:EOLhyphen"/>cording to the Queens tranſlation) <hi>And when they had ordained them Elders by E<g ref="char:EOLhyphen"/>lection in EVERY Church, and prayed and faſted, they commended them to the Lord in whom they believed.</hi> So 1 <hi>Tim</hi> 3.10 <hi>Let theſe alſo be firſt proved, then let them uſe the Office of a Deacon.</hi>
+            </p>
+            <p>Are they capable to have a lifted up hand in the Church-Officers Election, who have no heart to continue in Church-ordered Communion?</p>
+            <p n="4">4. The fourth, is that which doth declare a Chriſtians duty to be duly edifying ſome Church of Chriſt by his perſonal preſence, Prayers, and paines: as 'tis clearly manifeſt by what is written in 1 <hi>Cor.</hi> 14.1. <hi>Follow af<g ref="char:EOLhyphen"/>ter charity, and deſire spiritual gifts, but rather that ye may propheſie.</hi> And verſe 12. <hi>Seek that ye may excell to the edifying of the Church.</hi> So <hi>Eph.</hi> 2. verſe the 19, 20, 21, 22. <hi>Ye are fellow-Citizens with the Saints, built upon the foundation of the Apoſtles and Pro<g ref="char:EOLhyphen"/>phets, Jeſus Chriſt himſelf being the chief Corner-stone, in whom all building is fitly framed, and growth together unto an holy Temple. In whom ye are alſo builded togethe
+<pb n="20" facs="tcp:65602:16"/>for an habitation of God through the Spirit.</hi> So 1 <hi>Pet.</hi> 2 5. <hi>Ye alſo, as living ſtones, are built up a ſpiritual houſe; an holy Prieſthood, to offer up ſpiritual Sacrifice acceptable to God by Jeſus Chriſt.</hi> And <hi>Jud.</hi> 20. <hi>Building up your ſelves on your moſt holy Faith, praying in the holy Spirit.</hi>
+            </p>
+            <p>Are they in a capacity to conform to theſe commands, who do not cloſe with, and conjoyn in the Church-covenant? You know that they are farre from being Church-edifiers who are Church defamers, much more Church-deſpiſers, which I truſt you are not; or at leaſtwiſe, you ſhould abhor to be.</p>
+            <p n="5">5. The fifth, is that which exhorts and neceſſitates a Chriſtian to be informing the Church in their ſolemn Meetings, of the ob<g ref="char:EOLhyphen"/>ſtinacy of an offending Church Member; in order to that memorable inſtruction, <hi>M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t.</hi> 18 17. <hi>But if he ſhall neglect to hear them then tell it to the Church.</hi>
+            </p>
+            <p>Can any be commiſſioned to be a witneſſe as upon Oath, againſt wrongfull walking, who is himſelf an Alien or an unworthy and unwarrantable walker?</p>
+            <p n="6">6. The ſixth, is that which fairely and fully inſtitutes Chriſts Covenant-ſervants, to be ſpirituall Judges of ſuch ſouls as are either
+<pb n="21" facs="tcp:65602:16"/>to be excommunicated from Church-conſo<g ref="char:EOLhyphen"/>ciation, or elſe to be abſolved from Church-excommunication: as it appeares by what is extent, <hi>Pſal</hi> 149 8. <hi>To bind their Kings with chains, and their Nobles with ſletters.</hi> So 1 <hi>Cor</hi> 5.12. <hi>Do you not judge them that are within.</hi> So 2 <hi>Cor.</hi> 10.6. <hi>Having in readi<g ref="char:EOLhyphen"/>neſſe to revenge all diſobedience, when your obe<g ref="char:EOLhyphen"/>dience is fulfilled,</hi> &amp;c. And Chap. 2.6. <hi>Suffi<g ref="char:EOLhyphen"/>cient to ſuch a man is this puniſhment.</hi>
+            </p>
+            <p>Is't poſſible that ſuch a perſon ſhould be in a capacity to partake of ſuch high honour, as hath not a nail or Name in Chriſts houſe, no more then <hi>Sanballat</hi> the <hi>Horonite,</hi> or <hi>To<g ref="char:EOLhyphen"/>biah</hi> the <hi>Ammonite,</hi> noted with a black coal, in <hi>Neh.</hi> 2.19.20. <hi>But when Sanballat the Horonite, and Tobiah the Ammonite, and Ge<g ref="char:EOLhyphen"/>ſhem the Arabian heard it, the laught us to ſcorn, and deſpiſed us,</hi> &amp;c.</p>
+            <p n="7">7. The ſeventh, is that which goades and ſpurres faithfull Parents to offer their In<g ref="char:EOLhyphen"/>fants to fellowſhip with the Church, in the firſt Seal of the Covenant of Grace, which doth ſeal their grafting into Chriſt, as it ap<g ref="char:EOLhyphen"/>peares by many memorable preſcriptions and Praedictions, as <hi>Cant.</hi> 1.8. <hi>Feed thy Kids by the Tents of the Shepherds.</hi> So Chap. 47. <hi>Thy teeth are like a flock of Sheep, whereof every one brings forth twinnes.</hi> And Chap. the
+<pb n="22" facs="tcp:65602:17"/>6. &amp; 5 The ſame words. So <hi>Iſaiah</hi> the 49.22. <hi>They ſhall bring thy Sons in their arms, any thy daughters ſhall be carried upon their ſhoulders.</hi> And Chap. 59 21. <hi>My Spirit that is upon thee, and my words which I have put into thy mouth, ſhall not depart out of thy mouth, nor out of the mouth of thy ſeed, nor out of the mouth of thy ſeeds ſeed.</hi> Mark. 10.14, 15. <hi>But Jeſus ſaid, Suffer little Children to come unto me, for of ſuch is the Kingdom of God.</hi> And <hi>Act.</hi> 15.10. <hi>Now certain aroſe, ſaying, That 'twas needfull to circumciſe. But Peter ſaid unto them, Why tempt ye God to put a yoke upon the neck of the Diſciples.</hi> Note that Children of eight daies old, are here called Diſciples of Chriſt, and 'tis granted by all, that Diſciples of Chriſt may be bapti<g ref="char:EOLhyphen"/>zed.</p>
+            <p>Are not the Infants of Believers, to be accounted believing Infants, ſeeing he ſtiles them ſo, who ſpake as never man ſpake? Is there not a paſſive, as well as an active Faith? I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not the firſt before the ſecond, in all Chriſts Flock; yea, in young Infants, as well as in old folks? Hath he not told and taught you, that 'tis by ſuch a Faith as is in Believers Infants (which is a paſſive Faith) that the <hi>Kingdom of God is received?</hi>
+               <pb n="23" facs="tcp:65602:17"/>If it be a truth, that the leaſt Child is a ra<g ref="char:EOLhyphen"/>tional creature, as well as the eldeſt man, though not in reſpect of the act or exerciſe, yet in regard of the habit and root of reaſon, which is a reaſonable Spirit.</p>
+            <p>Is't not as true, that the leaſt child of the Covenant of Grace, is to be acknowledged a Chriſtian, and a gracious child, although not for, or from any act or exerciſe of grace of Chriſtianity, yet for and from the root and ground thereof, which is the gracious ſpirit of Chriſt?</p>
+            <p>If he emboldneth to bring ſuch Babes to himſelf, who dares withhold them from him? Or are they in a capacity to preſent their ſeed to the Church, who abſent themſelves from the ſame?</p>
+            <p n="8">8. The eighth, is that which helps feeble and forgetfull Saints to encreaſe in heavenly-mindedneſſe, and in holineſſe, by eating <hi>often</hi> of Chriſt body by Faith, at the Love-Feaſt of the Lords-Supper, which is the Seal that Seals their growth in grace; to which end 'tis ordained to be uſed and obſerved, <hi>Luk.</hi> 22.19. <hi>And he took the bread, and gave thankes and brake it, and gave unto them, ſaying, This is my body which was given for you, this do in remembrance of me: Likewiſe alſo the Cup, ſaying, This is the Cup of the
+<pb n="24" facs="tcp:65602:18"/>New Teſtament in my blood, which is ſhed for you.</hi> So <hi>Joh.</hi> 6.53. <hi>Except ye eat the fleſh of the Son of Man, and drink his blood, ye have no life in you.</hi> And 1 <hi>Cor.</hi> 11. the 24, 25, 26 verſes, <hi>After the ſame manner, he took the Cup ſaying, This Cup is the New Teſtament in my blood; this do yet as often as ye drink it.</hi> So verſe 26. <hi>For as often as ye eat this bread, and drink this cup,</hi> &amp;c.</p>
+            <p>Can ſuch perſons be deemed fit gueſts, at ſuch Church-Feaſts, which have not admit<g ref="char:EOLhyphen"/>tance and abode in Church-fellowſhip? And how can the eat <hi>often</hi> at the Lords Table, who do not eat once in a year, or in their life time?</p>
+            <p n="9">9. The ninth, is that which intereſts Chriſts Members in voting about ſending of Church-Meſſengers, and in writing of Church-Letters; which in ſuch caſes ought to be conformed unto, by all conformable Chriſtians: as moſt evidently appears by what way practiſed, <hi>Act.</hi> 13.22, 23. <hi>Then it pleaſed the Apoſtles and Elders, with the WHOLE Church, to ſend choſen men of their own company to Antioch, and wrote Letters after this manner,</hi> &amp;c. So 2 <hi>Cor.</hi> 3.1. <hi>Need we (as others) Epiſtles of commendation.</hi>
+            </p>
+            <p>Can one be a chuſer of Church-Meſſen<g ref="char:EOLhyphen"/>gers, that is not himſelf choſen to be a Church-member?</p>
+            <pb n="25" facs="tcp:65602:18"/>
+            <p>Or hath he a vote in writting of Church-Letters, who hath no name in Chriſts Church-Book of life, which is the honour of holy ones? <hi>Iſa.</hi> 4.3. <hi>He that is left in Zion, and he that remaineth in Jeruſalem, ſhall be called holy, even every one that is written among the living in Jeruſalem.</hi> And <hi>Rev.</hi> 22.19. <hi>And if any man ſhall take away from the words of the Book of this Propheſie, God ſhall take his part out of the Book of life, and out of the holy City, and out from the things that are written in this Book.</hi>
+            </p>
+            <p n="10">10. The tenth and laſt, is that which knocks loudly at the gates of godly hearts, to be weekly contributing, and openly bring<g ref="char:EOLhyphen"/>ing their Tribute, royal rent, and ſpiritual Subſides, to the Lord of their ſoil and ſouls, on the Lords day, as they are directed to do, who would be deemed free Members of a re<g ref="char:EOLhyphen"/>formed Church, in the Scriptures of truth. <hi>Deut.</hi> 16.10, 16, <hi>And thou ſhalt keep the Feaſt of weeks unto the Lord thy God, with a Tribute of a free will-offering of thy hand which thou ſhalt give to the Lord thy God, ac<g ref="char:EOLhyphen"/>cording as he hath bleſſed thee.</hi> And verſe 16. <hi>They ſhall not appear before the Lord empty.</hi> Alſo 1 <hi>Cor.</hi> 16.1, 2. <hi>Let every one upon the firſt day of the week, lay by him in ſtore as God hath proſpered him.</hi> And verſ. the 1?
+<pb n="26" facs="tcp:65602:19"/>
+               <hi>As I have given order to the Churches of Gal<g ref="char:EOLhyphen"/>latia, ſo do you.</hi>
+            </p>
+            <p>Is not Jeſus Chriſt the King of the bleſſed Gentiles, as well as of the believing Jews? And is not he as worthy of Subſidy as of Sovereignty? Or are thoſe perſons likely to preſent him with voluntary contribution, that do not liſt themſelves among his skir<g ref="char:EOLhyphen"/>miſhing and contending Souldiers, or ſworn Subjects in his viſible Camp and Kingdom?</p>
+            <p>As 'tis prov'd that none but ſuch believing Chriſtians, as come under the bond of the Covenant, amongſt Church Members, are in an uncondemnable poſture, or as yet in a ca<g ref="char:EOLhyphen"/>pacity to obſerve and keep, either <hi>every</hi> one, or <hi>any</hi> one of thoſe ten aforementioned re<g ref="char:EOLhyphen"/>markeable Goſpel <hi>Precepts;</hi> ſo 'tis as plain, that all thoſe Perſons, which are not com<g ref="char:EOLhyphen"/>pleatly come to that promotion, together with ſuch Profeſſors of godlineſſe, as do not firmly continue, and perſevere in that place; cannot warrantably (without preſumpti<g ref="char:EOLhyphen"/>on) make uſe of, as to apply to themſelves, any one of ten mercifull and memorable Go<g ref="char:EOLhyphen"/>ſpel <hi>Promiſes:</hi> although there caſe and con<g ref="char:EOLhyphen"/>dition ſhould never ſo much <hi>require,</hi> or their ſouls <hi>deſire</hi> the ſame.</p>
+            <p>They are theſe: (1.) The <hi>Promiſe</hi> of a Place among excelling Saints. (2.) Of pardon
+<pb n="27" facs="tcp:65602:19"/>of ſin under Seal. (3.) A princely prizing of Chriſtians as Chriſtians (4.) Proſperity of Spi<g ref="char:EOLhyphen"/>rit (5) Freedom from fear. (6.) A New Name. (7) Childrens good education. (8.) Spiri<g ref="char:EOLhyphen"/>tual Joy. (9.) Outward goods. (10 and laſtly,) A <hi>Promiſe</hi> of a true title to Divine Teachers, and reformed Paſtors.</p>
+            <p>The firſt whereof, is the <hi>Promiſe</hi> of a <hi>place</hi> amongſt Saints that excell in vertue, ſuch as Chriſt doth profeſſe his delight is in: as 'tis ſhewn in that golden prophetick Pſalm, <hi>Pſal.</hi> 16.3. concerning which happineſſe he hath paſt his Royal Word in both his Teſtaments, namely, in <hi>Iſaiah</hi> 56.3, &amp;c. <hi>Let not the ſon of the ſtranger, that hath joyned himſelf to the Lord, ſay, The Lord hath ſeparated me from his people: nor let the Eunuch ſay, I am a dry tree: For thus ſaith the Lord to the Eunuches that keep my Sabboths, and chuſe the things that pleaſe me, and take hold on my Covenant, even unto them will I give in mine Houſe, and within my walls a</hi> Place, &amp;c.</p>
+            <p>Is the preferring to ſuch a <hi>place</hi> ſuch a Pri<g ref="char:EOLhyphen"/>viledge, and appertaining to ſuch contrite-hearted perſons, as do ſo take hold on Chriſt, who is the ſumme and ſubſtance, as w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll as the Surety of the <hi>Covenant</hi> of Grace, as that they both <hi>make</hi> and <hi>keep</hi> Cov<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> with God among his holy and Houſhold Servants,
+<pb n="28" facs="tcp:65602:20"/>then (tell me, I pray) what evil elſe, or leſſe then downright excluſion, or direfull keep<g ref="char:EOLhyphen"/>ing out, and ſtaying off, from coming to Chriſts Church-Camp, can be the expecta<g ref="char:EOLhyphen"/>tion of careleſſe wretches, and unclean wai<g ref="char:EOLhyphen"/>ters among Church-neighbours? according to that awkening and wounding Commina<g ref="char:EOLhyphen"/>tion, <hi>Rev.</hi> 21.27. <hi>There ſhall not enter into it</hi> (<hi>i. e.</hi> the reformed Church) <hi>any thing that defileth, nor any thing that worketh abomina<g ref="char:EOLhyphen"/>tion, or maketh a lye.</hi>
+            </p>
+            <p>And what, ſave diſconſolate excommuni<g ref="char:EOLhyphen"/>cation from Communion and continuance in Chriſts ſpiritual Kingdom, will be the Por<g ref="char:EOLhyphen"/>tion of unconſtant and unconſcionable wal<g ref="char:EOLhyphen"/>kers therein? If Chriſts own mouth may be credited, which doth manifeſt as much, <hi>Mat</hi> 8.11, <hi>&amp;c. Many ſhall come from the Eaſt, and Weſt, and ſhall ſit down with Abraham, Iſa<g ref="char:EOLhyphen"/>ac, and Jacob, in the Kingdom of Heaven.</hi> Is't no grief to <hi>non-comers</hi> to any Church of Chriſt, that they have no place there? Or is't no diſgrace to <hi>non-continuers</hi> in Church-communion, that the red Dragon, and <hi>rend<g ref="char:EOLhyphen"/>ing</hi> Devil, hath with his fawning tayl, or fro<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> teeth, drawn or drag'd them thence?</p>
+            <p n="2">2. The ſecond, is the <hi>Promiſe</hi> of <hi>pardon</hi> under Seal, or a feeling aſſurance of for<g ref="char:EOLhyphen"/>giveneſſe
+<pb n="29" facs="tcp:65602:20"/>of ſins; which is ſweetly ſpoken of in ſeveral Scriptures: as <hi>Iſaiah</hi> 33.20, 24. <hi>Look upon Zion, the City of our Solemni<g ref="char:EOLhyphen"/>ties, their eyes ſhall ſee Jeruſalem a quiet habi<g ref="char:EOLhyphen"/>tation, and the Inhabitants ſhall not ſay, I am ſick; the people that dwell therein, ſhall be forgiven their iniquities.</hi> Of which ſpecial favour Chriſt himſelf ſpeaks very fully, <hi>Mat.</hi> 26.26, &amp;c. <hi>And as they were eating, Jeſus took bread, and bleſſed it,</hi> &amp;c. <hi>And he took the cup—and gave it to them, ſaying, Drink ye all of it; for this is my blood of the New-Teſtament, which is ſhed for many, for the remiſſion of ſinnes.</hi>
+            </p>
+            <p>Is ſuch an unfeigned aſſurance ordinarily found in any ſouls, ſave only in ſuch as have a name or a nail in Chriſts ſpiritual Houſe, whereof his loyal and viſibly holy Houſhold Servants are the lively ſtones? Would you (O my friends) have Chriſt to give you a full and free forgiveneſſe of all your former <hi>ſinnes,</hi> while you <hi>ſinfully</hi> and wilfully with<g ref="char:EOLhyphen"/>hold or withdraw your perſonal preſence from the Lords ſoul-feaſting Supper? Can ye poſſibly receive Chriſts <hi>ſealed</hi> pardon, and withall keep your ſelves out of the reach of Chriſts <hi>ſealing</hi> appointments? Can you procure under his hand, a <hi>non-obſtante,</hi> or to<g ref="char:EOLhyphen"/>leration for your abſence from his Houſe,
+<pb n="30" facs="tcp:65602:21"/>and <hi>non-appearance</hi> at his door poſts? Farre be it from you to <hi>confound</hi> the Ordinances of the Lord, with the Lord of Ordinances, and to ſay, That the <hi>creating-Ruler,</hi> and his <hi>created Rules,</hi> are not to be diſtinguiſhed, but are the ſame. I do beſeech you for his ſake, whoſe your ſouls are, let that be the frantick conception (if they will needs have and hold it) only of thoſe deplorable Objects of pitty; I mean, the<note n="*" place="margin">Theſe creatures, when they came firſt ſwarming from the North, were called <hi>Qua<g ref="char:EOLhyphen"/>kers.</hi>
+               </note> CONFOUNDERS; and of ſuch unreaſonable <hi>fel<g ref="char:EOLhyphen"/>lows</hi> as have no <hi>Faith,</hi> or are worſe then Infidels in forſaking the Faith which they profeſſe to have. God forbid that you ſhould be any of that ſort or ſect, that dare apply the ſacred Inſtitution of that <hi>ſetling</hi> and confirming Seal, the Lords Supper unto themſelves; before they be <hi>ſet</hi> and ſeated in the Lords Houſe, and have it regularly, with the allowance, and by the hands of the Stewards of his Houſe; whoſe Office it is to give their fellow-ſervants their ſeveral Portions in due ſeaſons. For I preſuppoſe that ye dare not ſay, That any ought to adminiſter theſe <hi>Myſterious</hi> things, ſave only they that are ſolemnly call'd thereunto, as was <hi>Aaron, Heb.</hi> 5.4.</p>
+            <pb n="31" facs="tcp:65602:21"/>
+            <p n="3">3. The third, is that which <hi>promiſeth</hi> a princely <hi>prizing</hi> of Chriſtians as Chriſti<g ref="char:EOLhyphen"/>ans, and acceptance to ones perſon and performances; although he were the Off<g ref="char:EOLhyphen"/>ſpring of infamous Anceſtors: as 'tis ap<g ref="char:EOLhyphen"/>parent by what is propheſied <hi>Iſaiah</hi> 56.4, 5, 6 verſes, <hi>Let not the ſon of the ſtranger, which is joyned to the Lord, ſay, The Lord hath ſeperated me utterly from his people: nor let the Eunuch ſay, Behold, I am a dry tree: For thus ſaith the Lord, to the Eu<g ref="char:EOLhyphen"/>nuches that keep my Sabboths, and chuſe the thing that pleaſeth me, and take hold on my Covenant, even unto them will I give a</hi> Name, <hi>better then the</hi> Name <hi>of Sons and Daughters, and make them</hi> joyfull <hi>in the Houſe of Prayer,</hi> &amp;c.</p>
+            <p>If joyfull admittance and acceptance be a priviledge that pertains to all thoſe perſons that take hold on Chriſt, who is the Surety of the better Covenant, by making and keeping it with God, and marching to the holy Mountain of his Meeting-Houſe: as is expreſsly mentioned in <hi>Ezek.</hi> 20 37. <hi>And I will cauſe you to paſſe under the rod, and I will bring you into the bond of the Covenant.</hi> And the 40 verſe, <hi>I will chuſe you out from among the Re<g ref="char:EOLhyphen"/>bels, in the high Mountain of Iſrael, ſaith
+<pb n="32" facs="tcp:65602:22"/>the Lord God then ſhall the Houſe of Iſ<g ref="char:EOLhyphen"/>rael, and all the Land ſerve me, there will I accept them.</hi>
+            </p>
+            <p>What then, but diſacknowledgement, diſregard, and excluſion from coming with<g ref="char:EOLhyphen"/>in Chriſts <hi>gates,</hi> can be the expectation of thoſe perſons, that have ſo long neglected Chriſts <hi>Houſe,</hi> or elſe have behaved them<g ref="char:EOLhyphen"/>ſelves badly there? What elſe can they think to have, then non-acceptance of their perſons and performances? What other complement can their <hi>eares</hi> expect to hear from Chriſts moſt ſacred mouth, then a <hi>Verily, verily, I know you not?</hi> Mat. 25.11. What other Ceremony can they imagine they ſhall be received with, then a <hi>Depart from me ye curſed,</hi> Mat. 25.41. And what greater acceptance can they look for at the <hi>Servants</hi> hands, then that which they had of the <hi>Maſter?</hi> Surely, Chriſts retinue and attendance may not <hi>reſpect</hi> thoſe whom their Lord and Maſter doth <hi>diſrespect?</hi>
+            </p>
+            <p n="4">4. The fourth, is that which aſſureth <hi>Proſperity</hi> of the ſoul, and a flouriſhing e<g ref="char:EOLhyphen"/>ſtate, whereof the antient Saints did uſe to ſing in the Pſalm for the Sabboth. <hi>Pſal.</hi> 92.12, 13. <hi>The righteous ſhall flouriſh like a Palme Tree, and ſhall grow like a Ce<g ref="char:EOLhyphen"/>dar in Lebanon: Such as be planted in the
+<pb n="33" facs="tcp:65602:22"/>Houſe of the Lord, ſhall flouriſh in the Courts of our God.</hi>
+            </p>
+            <p>Have the forſakers of Gods Houſe and Goſpel-Inſtitutions, any grounded hope that they ſhall graciouſly flouriſh? Who need to fear their flouriſhing, if not ſuch forſakers? Who for ſuch acts, are eſteemed in<g ref="char:EOLhyphen"/>veterate enemies, as <hi>Pſal.</hi> 74.4, 5, 6, 7, 8. <hi>Thine Adverſaries rore in the midſt of thy Con<g ref="char:EOLhyphen"/>gregation, and ſet up banners for ſignes.— But now they break down the Carved work thereof, with axes and hammers: They have caſt thy Sanctuary into the fire, and raſt it to the ground, and have deſtil'd thy dwelling place, and ſaid, Let us de<g ref="char:EOLhyphen"/>ſtroy them altogether, they have burn't all the Sinagogues of God in the Land.</hi> And <hi>Pſal.</hi> 83.2. <hi>Let us take to our ſelves the Houſes of God in poſſeſſion.</hi>
+            </p>
+            <p>Yea alſo, for their unwillingneſſe to be ruled by Chriſts Inſtitutions, are to be open<g ref="char:EOLhyphen"/>ly ſlain before Chriſts own eyes: as is moſt evident in <hi>Luke</hi> 19.27. <hi>Moreover thoſe mine enaemies, that would not that I ſhould reign over them, bring them hither, and ſl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y them before me.</hi>
+            </p>
+            <p n="5">5. The fifth, is that which warrants <hi>purifying</hi> of ſouls from ſlaviſh feare, dread of death, and is as Flaggons of
+<pb n="34" facs="tcp:65602:23"/>Wine of conſolation, to conſcientious wal<g ref="char:EOLhyphen"/>kers in Chriſt Church-waies: as is promi<g ref="char:EOLhyphen"/>ſed in <hi>Iſaiah</hi> 25.6. <hi>And in this moun<g ref="char:EOLhyphen"/>tain</hi> (to wit, the Church) <hi>ſhall the Lord of Hoſts make unto all people a Feaſt of fat things, a Feaſt of Wines on the Lees, of fat things full of marrow, of Wine on the Lees well refined. He will deſtroy in this Mountain, the face of the covering caſt over all people, and the veil that is ſpread over all Nations, and ſwallow up death in victo<g ref="char:EOLhyphen"/>ry.</hi> So <hi>Heb.</hi> 12.18. <hi>For ye are not come into the Mount, that might be touched, and that burned with fire, nor unto blackneſſe, darkneſſe, and tempest.—So terrible was the ſight, that Moſes ſaid, I was exceedingly afraid, and quak't. But we are come to mount Zion, and unto the City of the living God, the heavenly Jeruſalem, and an innu<g ref="char:EOLhyphen"/>merable company of Angels: To the gene<g ref="char:EOLhyphen"/>rall Aſſembly, and Church of the firſt born which are written in Heaven, and to God the Judge of all, and to the ſpirits of juſt men made perfect: And to Jeſus Chriſt, the Mediatour of the New Covenant, and to the blood of ſprinkling, that ſpeaks better things then that of Abel.</hi>
+            </p>
+            <p>Is't probable that they ſhall partake of ſuch a peculiar mercy of God, who will
+<pb n="35" facs="tcp:65602:23"/>not appear in the open Mount of publique Means of Grace?</p>
+            <p>Is this Wine, or any part of all this pro<g ref="char:EOLhyphen"/>viſion, promiſed to, or prepared for, perſons that will not be perſwaded to wait at the door-poſts of the Houſe of Wiſdome?</p>
+            <p>Do we dare to believe, that they have as yet attain'd unto either bleſſed boldueſſe, or any other endleſſe benefit, by the ſprink<g ref="char:EOLhyphen"/>ling of the blood of Chriſt, who do not endeavour nor deſire to Covenant with, or conform to the obedient members of the Church of the firſt born.</p>
+            <p n="6">6. The ſixth, is that which aſſures a Chriſtian that he hath a claim to an admi<g ref="char:EOLhyphen"/>rable <hi>Apellation,</hi> or New Name, <hi>Iſa.</hi> 62.2. <hi>And the Gentiles ſhall ſee thy righteouſneſſe, and all Kings thy glory. — And thou ſhalt be called by a new Name: Thou ſhalt alſo be a Crown of glory in the hand of the Lord, and a Royal Diadem in the hand of thy God. It ſhall be no more ſaid unto thee, Forſaken, nor to thy Land, Deſolate: but thou ſhalt be called Hepzibah, and thy Land Beulah, for the Lord delights in thee.</hi> So Rev. 3.12. <hi>Him that overcomes, will I make a Pillar in the Temple of my God, and he ſhall go no more out. And I will write upon him the
+<pb n="36" facs="tcp:65602:24"/>Name of my God, and the Name of the Ci<g ref="char:EOLhyphen"/>ty of my God, which is the New Jeruſalem, which cometh down out of Heaven, and I will write upon him a New Name.</hi>
+            </p>
+            <p>Can any have an approved Intereſt in Chriſts Name or Nature, that care not (by converting and confirming grace)<g ref="char:punc">▪</g> to be knit to Chriſt himſelef, and his Congre<g ref="char:EOLhyphen"/>gational Church in a Conjugell Covenant? Without converſie, they will be made known to be vile and notoriouſly vitious Citizens, who have no Name in any viſible City, as were thoſe graceleſſe companions that are condemned in the Goſpel of <hi>Luke,</hi> 19.14.</p>
+            <p n="7">7. The ſeventh, is that which aſſures con<g ref="char:EOLhyphen"/>verted Parents muſt evidently of the hope<g ref="char:EOLhyphen"/>full <hi>Education,</hi> and heavenly Election of their Children: as 'tis apparently promiſed in <hi>Iſa.</hi> 65 19 22. <hi>And I will rejoyce in Je<g ref="char:EOLhyphen"/>ruſalem, and joy in my people; and the voice of crying ſhall be no more hoard: f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> as the daies of the tree are the daies of my people, and mine Elect ſhall enjoy in old age the work of their hand; they are the ſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> of the bleſſed of the Lord, and their buds with them.</hi>
+            </p>
+            <p>Who can affirm, that thoſe Infants d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> relate to Chriſts Elect Flock, whoſe Father
+<pb n="37" facs="tcp:65602:24"/>have relinquiſh't Chriſts Fould? and do love to live out of it. Shall not the ſinnes of ſuch Parents be viſited upon their chil<g ref="char:EOLhyphen"/>dren, when his ſanctifying Spirit that is in his Covenant-Servants, ſhall reſt in their ſeed, and ſeeds ſeed, from generation to generation? according to what is recorded, <hi>Iſa.</hi> 44.34. <hi>I will pour my Spirit upon thy ſeed, and my bleſſing upon thy Off-spring, and they ſhall ſpring as among the graſſe, as willows by the water-courſes.</hi> So Chap. 54.13. <hi>And all thy Children ſhall be taught of the Lord, and great ſhall be the peace of thy Children.</hi> And Chap 59.20. <hi>The Redeemer ſhall come to Zion, and to them that turn from tranſgreſſion in Ja<g ref="char:EOLhyphen"/>cob.—For this is my Covenant with them, ſaith the Lord, my Spirit that is upon thee, and my words that I have put in thy mouth, ſhall not depart out of thy mouth, nor out of the mouth of thy ſeed, nor out of the mouth of thy ſeeds ſeed, ſaith the Lord.</hi>
+            </p>
+            <p>But if the Mother live a <hi>Jezallells</hi> life, will not Chriſt <hi>kill</hi> her Children with death? and cauſe ALL the Churches thereabouts, to know, that he himſelf hath been the ſearcher for the foul of<g ref="char:EOLhyphen"/>fences of ſuch Mothers or Fathers, as
+<pb n="38" facs="tcp:65602:25"/>are Church deſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers: as 'tis threatned in <hi>Rev.</hi> 2.22, 23.</p>
+            <p n="8">8. The eighth, is that whereby God is engaged to free <hi>from</hi> forrow, and to fill <hi>with</hi> Joy, the ſouls of his Covenant-Ser<g ref="char:EOLhyphen"/>vants, in Church-fellowſhip: as 'tis to be ſeen in expreſſe termes, <hi>Iſa</hi> 65 13, 14, 17, 18, 19. <hi>Beh<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, my S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rvants ſhall rejoyce, but ye ſhall be aſhamed: they ſhall ſing for joy of h<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> but ye ſhall cry for ſorrow of heart, and howle for vexation of spirit. Be glad and rejoyce for ever, in that which I create; for behold, I create Jeruſalem a rejoycing, and her people a j<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, and the voice of we<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>all be no more heard, nor the voice of crying</hi> &amp;c.</p>
+            <p>Have they either Rule or Reaſon to re<g ref="char:EOLhyphen"/>joyce, that refuſe to relate to the heaven<g ref="char:EOLhyphen"/>ly <hi>Jeruſalem,</hi> or to ſpend their whole time in his ſpiritual Temple, with the e<g ref="char:EOLhyphen"/>minent triumphers, mentioned in <hi>Revel.</hi> 7.9 10, 15, 17. <hi>After this, I beheld a great multitude which no man could number, of all Nations, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd Kindred, and people, and tongues, ſtood before the Throne, and before the Lamb, cloathed with White Robes, and Palmes in their hands, crying with a loud voice, Salvation to our God. There<g ref="char:EOLhyphen"/>fore they are before the Throne of God, and
+<pb n="39" facs="tcp:65602:25"/>ſerve him day and night, and God ſhall wipe away all teares from their eyes.</hi> So Chap. 12.12. <hi>Rejoyce therefore ye Heavens, and ye that dwell therein.</hi>
+            </p>
+            <p>Who beſides notorious <hi>flatterers,</hi> dare <hi>affirm that</hi> they are heavenly <hi>Christians;</hi> or perſwaded with <hi>Japhet,</hi> to dwell in the Tents of <hi>Sh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m</hi> with Chriſt, who dare <hi>af<g ref="char:EOLhyphen"/>front</hi> and diſobey his Combinational Churches? May they be ſaid to be <hi>regular</hi> rejoycers in the King of Saints, who refuſe either to walk with, or work among his conformable Subjects? Truly thoſe, and only thoſe children of men that dare give the lye to God, will ſtand to ſuch an Aſſer<g ref="char:EOLhyphen"/>tion.</p>
+            <p n="9">9. The ninth, is that which laies down a ground of hope, for to enjoy a conſiderable quantity of <hi>outward goods,</hi> and earthly com<g ref="char:EOLhyphen"/>forts: as 'tis found, affirm'd, and con<g ref="char:EOLhyphen"/>firm'd, <hi>Pſal.</hi> 23. the 1, 5, 6, verſes, <hi>The Lord is my Sheapherd, I ſhall not want. — Thou prepareſt a Table before me, thou a<g ref="char:EOLhyphen"/>nointeſt my head with oyl; my Cup runnes over. Surely goodneſſe and mercy ſhall follow me all the daies of my life: and I will dwell in the Houſe of the Lord for ever.</hi> So <hi>Iſa.</hi> 65.21. <hi>They ſhall build Houſes, and inhabit them; they ſhall plant Vineyards,
+<pb n="40" facs="tcp:65602:26"/>and eat the fruit thereof—They ſhall not build, and another inhabit, they ſhall not Plant and another eat.</hi> And <hi>Ezek.</hi> the 34.25, 26. <hi>They ſhall dwell ſafely in the wil<g ref="char:EOLhyphen"/>derneſſe, and ſleep in the woods, and I will make them, and the places round about them, bleſſing, and will cauſe the ſhower to come down in his ſeaſon: there ſhall be ſhowers of bleſſing.</hi>
+            </p>
+            <p>Though ſometimes the beſt of the Lords Covenant Servants, as <hi>Elias,</hi> and <hi>Paul,</hi> may be brought to a very low ebbe for the things of <hi>this life,</hi> yet was there ever any want of food convenient, or any other ne<g ref="char:EOLhyphen"/>ceſſary good, to ſuch as were faithfull dwel<g ref="char:EOLhyphen"/>lers, that is to ſay, weldoers, in the Houſe of God?</p>
+            <p>Although the Dew of Heaven, and the fatneſſe of the Earth, doth often fall out to be the ſhare of an <hi>Eſau,</hi> who falls away from Chriſts little Flock in <hi>Iſacc</hi>'s Family, for to live alone as an out caſt <hi>Cain</hi> in in Mount <hi>Seir,</hi> or the Land of <hi>Nod,</hi> which is the place of <hi>Vagrants;</hi> yet is't not eaſie to obſerve, that <hi>that</hi> large cut, that is ſo carved to him and his, is ſuch an unſatisfied <hi>ſuperfluity,</hi> as doth but fatten them for the day of ſlaughter? And ſuch perſons proſperity, is an uſuall fore runner
+<pb n="41" facs="tcp:65602:26"/>of ſore perdition: as it appears <hi>Pſal.</hi> 73 12. <hi>Prov.</hi> 1.32.</p>
+            <p>Doth God at any time ſhower down his true bleſſings, but about the bleſſed Sheap<g ref="char:EOLhyphen"/>herds Tents, where his tame and tractable Sheep and Lambs have their abode?</p>
+            <p>Can you ſhew, that any perſons are ſo perſued with ſuch devouring diſtreſſes, ſuch perplexing poverty, ſuch fearfull Afflicti<g ref="char:EOLhyphen"/>ons, as unthankfull Church Members, and evil Church-neighbours are? It being but the fearfull fulfilling of what was fiercely foretold in <hi>Deut.</hi> 28.47, 48. <hi>Becauſe thou ſervedſt not the Lord thy God with joyful<g ref="char:EOLhyphen"/>neſſe of heart, for the abundance of all things, thou ſhalt ſerve thine enemies, in hunger, thirst, and nakedneſſe, and in want of all things.</hi> So <hi>Iſa.</hi> 8 21, 22 <hi>When they ſhall be hungry, they ſhall fret themſelves, and curſe their King, and their God. They ſhall look to the earth, and behold trouble and darkneſſe, dimneſſe of anguiſh.</hi> So <hi>Jer.</hi> 12.13, 14. <hi>They have ſown Wheat, but ſhall reap thornes, and put themſelves to pain, but ſhall not profit, becauſe of the fierce anger of the Lord; And they ſhall be aſhamed of your revenues. Thus ſaith the Lord God a<g ref="char:EOLhyphen"/>gainſt his evil NEIGHBO<g ref="char:V">Ʋ</g>RS.</hi>
+            </p>
+            <pb n="42" facs="tcp:65602:27"/>
+            <p n="10">10. The tenth and laſt of thoſe Goſpel-Promiſes, which perſons that are out of Church-Covenant, are not in a capacity to cloſe with, or to take comfort from, is, the <hi>Promiſe</hi> of an undoubted <hi>title</hi> to Divine <hi>Teachers,</hi> and an unfeigned propriety to reformed and reforming <hi>Paſtors:</hi> of which ſingular <hi>mercy</hi> ſolemn <hi>mention</hi> is made in both Teſtaments, as in <hi>Iſa.</hi> 30.20. <hi>Thy Teachers ſhall not be removed any more into a corner, but thine eyes ſhall ſee thy Teach<g ref="char:EOLhyphen"/>ers.</hi> So <hi>Jer.</hi> 3.15. <hi>I will give you Paſtors according to my own heart, who ſhall feed you with underſtanding and knowledge.</hi> And 1 <hi>Cor.</hi> 3.5, 9, 22. <hi>Who is Paul, and who is Apollo, but Miniſters by Whom ye be<g ref="char:EOLhyphen"/>lieved?—For we are Labourers together with God, ye are Gods Husbandry, ye are Gods Building. —Whether Paul, or Apollo, or Ce<g ref="char:EOLhyphen"/>phas, or the world, or life, or death, or things preſent, or things to come, all are yours, and ye are Chriſts, and Chriſt is Gods.</hi> So <hi>Heb.</hi> 13.17. <hi>Obey them that have the rule over you, and ſubmit your ſelves, for they watch over your ſouls, as they that must give an account, that they may do it with joy, and not with grief, for that is, not profitable for you.</hi>
+            </p>
+            <pb n="43" facs="tcp:65602:27"/>
+            <p>Is't probable that their ſouls ſhall be pre<g ref="char:EOLhyphen"/>ſerved from going aſtray after Satan, who unthankfully refuſing to attend on the teaching of publique Teachers, do reject Gods ordinary means of preſervation? Are they not to this day running on in A<g ref="char:EOLhyphen"/>poſtacy, who are not related to any <hi>Pa<g ref="char:EOLhyphen"/>ſtors?</hi>
+            </p>
+            <p>Or is't any wonder, that they dare ſo wretchedly to wreſt the Sacred Scriptures, and to wallow in open ſinnes, who will have no <hi>Church Officers</hi> to watch over their ſouls.</p>
+            <p>NOW I appeal to any profeſſing perſon, that is endued either with conſcience or common ſenſe, whether it be not a known duty, which is due to Chriſt, from all thoſe creatures, who would be accounted Chri<g ref="char:EOLhyphen"/>ſtians, both to obey theſe Ten memorable <hi>Precepts,</hi> and alſo to embrace theſe Ten mercifull <hi>Promiſes</hi> that are pointed at in this preſent Paper; and whether any one of all the children of <hi>Adam,</hi> is in a ca<g ref="char:EOLhyphen"/>pacity to anſwer his expectation in any meaſure (in an ordinary manner) that is not either in very deed, or at leaſt, in de<g ref="char:EOLhyphen"/>ſire and endeavour both converted to Chriſt, and alſo in Covenant with ſome one or other of his <hi>Congregational Churches.</hi>
+            </p>
+            <pb n="44" facs="tcp:65602:28"/>
+            <p>Thus not doubting any thing at all, but that every one of you, that is well <hi>gather<g ref="char:EOLhyphen"/>ed</hi> to Chriſt, and well <hi>grounded</hi> on Chriſt, will be very willing to be <hi>guided</hi> and <hi>govern<g ref="char:EOLhyphen"/>ed</hi> by Chriſt. This labour, and theſe lines of love, are left with you all, and all of you with the Lord, by him who is</p>
+            <closer>
+               <signed>Yours to be commanded in any ſervice that ſhall be according to Chriſt, <hi>MARMADUKE MATTHWS.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>ANd now let me implore and requeſt e<g ref="char:EOLhyphen"/>very one of you, to be ſo far tender of Gods not to be ſtained Honour, and that glorious Profeſſion you have taken upon you, as to eſchew both the Name and Nature of a RENDING CHURCH-MEMBER, its repute as well as the real<g ref="char:EOLhyphen"/>lity,
+<pb n="45" facs="tcp:65602:28"/>Reſolving, by Gods aſſiſtance, for the future, to be rebuilding, not <hi>rending</hi> Chriſts growing Temple; and in the firſt place, to ſuffer your ſelves to be REGULARLY RE<g ref="char:EOLhyphen"/>CAL'D, and in the interim, to joyn both <hi>heart</hi> and <hi>band,</hi> in ſending up <hi>unanimous</hi> Ejaculations, to petition his Divine Ma<g ref="char:EOLhyphen"/>jeſty, that himſelf will be pleaſed to con<g ref="char:EOLhyphen"/>deſcend ſo low, as to bow the Heavens, and to put unto theſe uncomfortable <hi>beginnings,</hi> a comfortable</p>
+            </postscript>
+            <trailer>END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
